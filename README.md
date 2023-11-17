@@ -41,11 +41,3 @@ The repository contains various files and notebooks focusing on CSV file handlin
 2. Utilize Jupyter Notebooks to open and run the provided files for learning and practicing CSV file handling.
 3. Explore different scenarios, modify the code, or use the datasets for analysis as per your requirements.
 
-## Contributions
-
-Contributions are welcomed! If you have additional CSV handling techniques, improved examples, or new datasets, feel free to contribute by forking the repository and submitting a pull request.
-
-Let's collectively enhance our CSV file handling skills using Python!
-
----
- 
